@@ -1,9 +1,10 @@
-![Pub](https://img.shields.io/pub/v/pandapie) 
+
+<!--- ![Pub](https://img.shields.io/pub/v/pandapie) -->
 
 
 # PandaPie
 
-A fancy pie chart for pandas. Pandapie designed for new neumorphic design trend.
+A fancy pie chart for pandas. Pandapie designed for new neumorphic design trend. Forked from https://github.com/kemalturk/pandapie
 
 | Preview | PageView |
 |---------|----------|
